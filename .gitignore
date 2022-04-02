@@ -162,3 +162,4 @@ notebook/VGG16_full_model.h5
 
 data/
 notebook/trained_model.h5
+*.tflite
