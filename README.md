@@ -1,1 +1,1 @@
-# VGG_16_TensorFLow_TransferLearning
+# /c/INEURON/DL/VGG_16_TF_TransferLearning_Uday
